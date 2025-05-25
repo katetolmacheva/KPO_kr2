@@ -1,0 +1,1006 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8CEA48-357D-4D84-A97B-4F72E11651C5}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\fileanalysisservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F8CEA48-357D-4D84-A97B-4F72E11651C5}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8CEA48-357D-4D84-A97B-4F72E11651C5}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\fileanalysisservice\\infrastructure\\wordcloud\\quickchartwordcloudgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8CEA48-357D-4D84-A97B-4F72E11651C5}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\infrastructure\\wordcloud\\quickchartwordcloudgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8CEA48-357D-4D84-A97B-4F72E11651C5}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\fileanalysisservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F8CEA48-357D-4D84-A97B-4F72E11651C5}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8CEA48-357D-4D84-A97B-4F72E11651C5}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\fileanalysisservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2F8CEA48-357D-4D84-A97B-4F72E11651C5}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971D672B-7EF2-4384-9F36-F0CD20C0AECD}|Tests\\FileAnalysisTest\\FileAnalysisTest.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\tests\\fileanalysistest\\infrastructure\\clients\\filestoragehttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971D672B-7EF2-4384-9F36-F0CD20C0AECD}|Tests\\FileAnalysisTest\\FileAnalysisTest.csproj|solutionrelative:tests\\fileanalysistest\\infrastructure\\clients\\filestoragehttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971D672B-7EF2-4384-9F36-F0CD20C0AECD}|Tests\\FileAnalysisTest\\FileAnalysisTest.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\tests\\fileanalysistest\\infrastructure\\worldcloud\\quickchartwordcloudgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971D672B-7EF2-4384-9F36-F0CD20C0AECD}|Tests\\FileAnalysisTest\\FileAnalysisTest.csproj|solutionrelative:tests\\fileanalysistest\\infrastructure\\worldcloud\\quickchartwordcloudgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\filestoringservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\filestoringservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347684D2-5B28-4C14-9072-512062A4DF25}|Tests\\FileStoringServiceTest\\FileStoringServiceTest.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\tests\\filestoringservicetest\\testresults\\60a92afb-e201-4738-8f2e-87190411a445\\coverage.cobertura.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{347684D2-5B28-4C14-9072-512062A4DF25}|Tests\\FileStoringServiceTest\\FileStoringServiceTest.csproj|solutionrelative:tests\\filestoringservicetest\\testresults\\60a92afb-e201-4738-8f2e-87190411a445\\coverage.cobertura.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347684D2-5B28-4C14-9072-512062A4DF25}|Tests\\FileStoringServiceTest\\FileStoringServiceTest.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\tests\\filestoringservicetest\\infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347684D2-5B28-4C14-9072-512062A4DF25}|Tests\\FileStoringServiceTest\\FileStoringServiceTest.csproj|solutionrelative:tests\\filestoringservicetest\\infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347684D2-5B28-4C14-9072-512062A4DF25}|Tests\\FileStoringServiceTest\\FileStoringServiceTest.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\tests\\filestoringservicetest\\infrastructure\\repositories\\effilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347684D2-5B28-4C14-9072-512062A4DF25}|Tests\\FileStoringServiceTest\\FileStoringServiceTest.csproj|solutionrelative:tests\\filestoringservicetest\\infrastructure\\repositories\\effilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347684D2-5B28-4C14-9072-512062A4DF25}|Tests\\FileStoringServiceTest\\FileStoringServiceTest.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\tests\\filestoringservicetest\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347684D2-5B28-4C14-9072-512062A4DF25}|Tests\\FileStoringServiceTest\\FileStoringServiceTest.csproj|solutionrelative:tests\\filestoringservicetest\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347684D2-5B28-4C14-9072-512062A4DF25}|Tests\\FileStoringServiceTest\\FileStoringServiceTest.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\tests\\filestoringservicetest\\domain\\model\\entity\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347684D2-5B28-4C14-9072-512062A4DF25}|Tests\\FileStoringServiceTest\\FileStoringServiceTest.csproj|solutionrelative:tests\\filestoringservicetest\\domain\\model\\entity\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347684D2-5B28-4C14-9072-512062A4DF25}|Tests\\FileStoringServiceTest\\FileStoringServiceTest.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\tests\\filestoringservicetest\\domain\\events\\documentexist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347684D2-5B28-4C14-9072-512062A4DF25}|Tests\\FileStoringServiceTest\\FileStoringServiceTest.csproj|solutionrelative:tests\\filestoringservicetest\\domain\\events\\documentexist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347684D2-5B28-4C14-9072-512062A4DF25}|Tests\\FileStoringServiceTest\\FileStoringServiceTest.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\tests\\filestoringservicetest\\domain\\events\\documentuploaded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347684D2-5B28-4C14-9072-512062A4DF25}|Tests\\FileStoringServiceTest\\FileStoringServiceTest.csproj|solutionrelative:tests\\filestoringservicetest\\domain\\events\\documentuploaded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347684D2-5B28-4C14-9072-512062A4DF25}|Tests\\FileStoringServiceTest\\FileStoringServiceTest.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\tests\\filestoringservicetest\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347684D2-5B28-4C14-9072-512062A4DF25}|Tests\\FileStoringServiceTest\\FileStoringServiceTest.csproj|solutionrelative:tests\\filestoringservicetest\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347684D2-5B28-4C14-9072-512062A4DF25}|Tests\\FileStoringServiceTest\\FileStoringServiceTest.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\tests\\filestoringservicetest\\application\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347684D2-5B28-4C14-9072-512062A4DF25}|Tests\\FileStoringServiceTest\\FileStoringServiceTest.csproj|solutionrelative:tests\\filestoringservicetest\\application\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347684D2-5B28-4C14-9072-512062A4DF25}|Tests\\FileStoringServiceTest\\FileStoringServiceTest.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\tests\\filestoringservicetest\\application\\dtos\\fileuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347684D2-5B28-4C14-9072-512062A4DF25}|Tests\\FileStoringServiceTest\\FileStoringServiceTest.csproj|solutionrelative:tests\\filestoringservicetest\\application\\dtos\\fileuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347684D2-5B28-4C14-9072-512062A4DF25}|Tests\\FileStoringServiceTest\\FileStoringServiceTest.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\tests\\filestoringservicetest\\application\\dtos\\filedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{347684D2-5B28-4C14-9072-512062A4DF25}|Tests\\FileStoringServiceTest\\FileStoringServiceTest.csproj|solutionrelative:tests\\filestoringservicetest\\application\\dtos\\filedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\filestoringservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\filestoringservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\filestoringservice\\infrastructure\\unitofwork\\efunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\infrastructure\\unitofwork\\efunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\filestoringservice\\infrastructure\\repositories\\effilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\infrastructure\\repositories\\effilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\filestoringservice\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\filestoringservice\\domain\\model\\interfaces\\idocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\domain\\model\\interfaces\\idocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\filestoringservice\\domain\\model\\entities\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\domain\\model\\entities\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\filestoringservice\\domain\\events\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\domain\\events\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\filestoringservice\\domain\\events\\documentuploaded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\domain\\events\\documentuploaded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\filestoringservice\\domain\\events\\documentexist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\domain\\events\\documentexist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\filestoringservice\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\filestoringservice\\application\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\application\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\filestoringservice\\application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\filestoringservice\\application\\interfaces\\ifilestoringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\application\\interfaces\\ifilestoringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\filestoringservice\\application\\interfaces\\ifilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\application\\interfaces\\ifilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\filestoringservice\\application\\dtos\\fileuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\application\\dtos\\fileuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\filestoringservice\\application\\dtos\\filedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\application\\dtos\\filedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\filestoringservice\\application\\dtos\\createfiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01E8040-B7CB-4A2D-B876-4B2BA3626118}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\application\\dtos\\createfiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971D672B-7EF2-4384-9F36-F0CD20C0AECD}|Tests\\FileAnalysisTest\\FileAnalysisTest.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\tests\\fileanalysistest\\testresults\\05fc151c-acef-4271-9c57-b7f26cbc8d39\\coverage.cobertura.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{971D672B-7EF2-4384-9F36-F0CD20C0AECD}|Tests\\FileAnalysisTest\\FileAnalysisTest.csproj|solutionrelative:tests\\fileanalysistest\\testresults\\05fc151c-acef-4271-9c57-b7f26cbc8d39\\coverage.cobertura.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971D672B-7EF2-4384-9F36-F0CD20C0AECD}|Tests\\FileAnalysisTest\\FileAnalysisTest.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\tests\\fileanalysistest\\infrastructure\\repositories\\fileanalysisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971D672B-7EF2-4384-9F36-F0CD20C0AECD}|Tests\\FileAnalysisTest\\FileAnalysisTest.csproj|solutionrelative:tests\\fileanalysistest\\infrastructure\\repositories\\fileanalysisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971D672B-7EF2-4384-9F36-F0CD20C0AECD}|Tests\\FileAnalysisTest\\FileAnalysisTest.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\tests\\fileanalysistest\\infrastructure\\data\\textanalysisdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971D672B-7EF2-4384-9F36-F0CD20C0AECD}|Tests\\FileAnalysisTest\\FileAnalysisTest.csproj|solutionrelative:tests\\fileanalysistest\\infrastructure\\data\\textanalysisdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971D672B-7EF2-4384-9F36-F0CD20C0AECD}|Tests\\FileAnalysisTest\\FileAnalysisTest.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\tests\\fileanalysistest\\domain\\entities\\fileanaysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971D672B-7EF2-4384-9F36-F0CD20C0AECD}|Tests\\FileAnalysisTest\\FileAnalysisTest.csproj|solutionrelative:tests\\fileanalysistest\\domain\\entities\\fileanaysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971D672B-7EF2-4384-9F36-F0CD20C0AECD}|Tests\\FileAnalysisTest\\FileAnalysisTest.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\tests\\fileanalysistest\\controllers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971D672B-7EF2-4384-9F36-F0CD20C0AECD}|Tests\\FileAnalysisTest\\FileAnalysisTest.csproj|solutionrelative:tests\\fileanalysistest\\controllers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971D672B-7EF2-4384-9F36-F0CD20C0AECD}|Tests\\FileAnalysisTest\\FileAnalysisTest.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\tests\\fileanalysistest\\application\\services\\analyzefileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971D672B-7EF2-4384-9F36-F0CD20C0AECD}|Tests\\FileAnalysisTest\\FileAnalysisTest.csproj|solutionrelative:tests\\fileanalysistest\\application\\services\\analyzefileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971D672B-7EF2-4384-9F36-F0CD20C0AECD}|Tests\\FileAnalysisTest\\FileAnalysisTest.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\tests\\fileanalysistest\\application\\dtos\\analyzeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971D672B-7EF2-4384-9F36-F0CD20C0AECD}|Tests\\FileAnalysisTest\\FileAnalysisTest.csproj|solutionrelative:tests\\fileanalysistest\\application\\dtos\\analyzeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971D672B-7EF2-4384-9F36-F0CD20C0AECD}|Tests\\FileAnalysisTest\\FileAnalysisTest.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\tests\\fileanalysistest\\application\\dtos\\analyzerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971D672B-7EF2-4384-9F36-F0CD20C0AECD}|Tests\\FileAnalysisTest\\FileAnalysisTest.csproj|solutionrelative:tests\\fileanalysistest\\application\\dtos\\analyzerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8CEA48-357D-4D84-A97B-4F72E11651C5}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\fileanalysisservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8CEA48-357D-4D84-A97B-4F72E11651C5}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8CEA48-357D-4D84-A97B-4F72E11651C5}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2F8CEA48-357D-4D84-A97B-4F72E11651C5}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8CEA48-357D-4D84-A97B-4F72E11651C5}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\fileanalysisservice\\infrastructure\\repositories\\fileanalysisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8CEA48-357D-4D84-A97B-4F72E11651C5}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\infrastructure\\repositories\\fileanalysisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8CEA48-357D-4D84-A97B-4F72E11651C5}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\fileanalysisservice\\infrastructure\\data\\textanalysisdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8CEA48-357D-4D84-A97B-4F72E11651C5}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\infrastructure\\data\\textanalysisdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8CEA48-357D-4D84-A97B-4F72E11651C5}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\fileanalysisservice\\infrastructure\\clients\\filestoragehttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8CEA48-357D-4D84-A97B-4F72E11651C5}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\infrastructure\\clients\\filestoragehttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8CEA48-357D-4D84-A97B-4F72E11651C5}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\fileanalysisservice\\domain\\interfaces\\iwordcloudgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8CEA48-357D-4D84-A97B-4F72E11651C5}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\domain\\interfaces\\iwordcloudgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8CEA48-357D-4D84-A97B-4F72E11651C5}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\fileanalysisservice\\domain\\interfaces\\ifileanalysisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8CEA48-357D-4D84-A97B-4F72E11651C5}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\domain\\interfaces\\ifileanalysisrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8CEA48-357D-4D84-A97B-4F72E11651C5}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\fileanalysisservice\\domain\\entities\\fileanalysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8CEA48-357D-4D84-A97B-4F72E11651C5}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\domain\\entities\\fileanalysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8CEA48-357D-4D84-A97B-4F72E11651C5}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\fileanalysisservice\\controllers\\analyzecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8CEA48-357D-4D84-A97B-4F72E11651C5}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\controllers\\analyzecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8CEA48-357D-4D84-A97B-4F72E11651C5}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\fileanalysisservice\\application\\services\\analyzefileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8CEA48-357D-4D84-A97B-4F72E11651C5}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\application\\services\\analyzefileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8CEA48-357D-4D84-A97B-4F72E11651C5}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\fileanalysisservice\\application\\interfaces\\ianalyzefileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8CEA48-357D-4D84-A97B-4F72E11651C5}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\application\\interfaces\\ianalyzefileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8CEA48-357D-4D84-A97B-4F72E11651C5}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\fileanalysisservice\\application\\dtos\\analyzefilerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8CEA48-357D-4D84-A97B-4F72E11651C5}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\application\\dtos\\analyzefilerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8CEA48-357D-4D84-A97B-4F72E11651C5}|FileAnalysisService\\FileAnalysisService.csproj|c:\\users\\tolka\\downloads\\cw2\\cw2\\fileanalysisservice\\application\\dtos\\analyzefileresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8CEA48-357D-4D84-A97B-4F72E11651C5}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\application\\dtos\\analyzefileresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuickChartWordCLoudGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileAnalysisTest\\Infrastructure\\WorldCloud\\QuickChartWordCLoudGenerator.cs",
+              "RelativeDocumentMoniker": "Tests\\FileAnalysisTest\\Infrastructure\\WorldCloud\\QuickChartWordCLoudGenerator.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileAnalysisTest\\Infrastructure\\WorldCloud\\QuickChartWordCLoudGenerator.cs",
+              "RelativeToolTip": "Tests\\FileAnalysisTest\\Infrastructure\\WorldCloud\\QuickChartWordCLoudGenerator.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAWwCwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:45:55.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileStorageHttpClient.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileAnalysisTest\\Infrastructure\\Clients\\FileStorageHttpClient.cs",
+              "RelativeDocumentMoniker": "Tests\\FileAnalysisTest\\Infrastructure\\Clients\\FileStorageHttpClient.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileAnalysisTest\\Infrastructure\\Clients\\FileStorageHttpClient.cs",
+              "RelativeToolTip": "Tests\\FileAnalysisTest\\Infrastructure\\Clients\\FileStorageHttpClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:45:12.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileAnalysisService\\Dockerfile",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Dockerfile",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileAnalysisService\\Dockerfile",
+              "RelativeToolTip": "FileAnalysisService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-02T13:42:59.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileAnalysisService\\appsettings.json",
+              "RelativeDocumentMoniker": "FileAnalysisService\\appsettings.json",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileAnalysisService\\appsettings.json",
+              "RelativeToolTip": "FileAnalysisService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-02T13:42:44.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuickChartWordCloudGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileAnalysisService\\Infrastructure\\WordCloud\\QuickChartWordCloudGenerator.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Infrastructure\\WordCloud\\QuickChartWordCloudGenerator.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileAnalysisService\\Infrastructure\\WordCloud\\QuickChartWordCloudGenerator.cs",
+              "RelativeToolTip": "FileAnalysisService\\Infrastructure\\WordCloud\\QuickChartWordCloudGenerator.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAnwC4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:42:45.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileAnalysisService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileAnalysisService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FileAnalysisService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-02T13:41:40.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FileStoringService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FileStoringService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-02T13:47:01.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Dockerfile",
+              "RelativeDocumentMoniker": "FileStoringService\\Dockerfile",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Dockerfile",
+              "RelativeToolTip": "FileStoringService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-02T13:54:31.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "coverage.cobertura.xml",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileStoringServiceTest\\TestResults\\60a92afb-e201-4738-8f2e-87190411a445\\coverage.cobertura.xml",
+              "RelativeDocumentMoniker": "Tests\\FileStoringServiceTest\\TestResults\\60a92afb-e201-4738-8f2e-87190411a445\\coverage.cobertura.xml",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileStoringServiceTest\\TestResults\\60a92afb-e201-4738-8f2e-87190411a445\\coverage.cobertura.xml",
+              "RelativeToolTip": "Tests\\FileStoringServiceTest\\TestResults\\60a92afb-e201-4738-8f2e-87190411a445\\coverage.cobertura.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-02T13:56:33.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileStoringServiceTest\\Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Tests\\FileStoringServiceTest\\Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileStoringServiceTest\\Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "Tests\\FileStoringServiceTest\\Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:56:26.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EfFileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileStoringServiceTest\\Infrastructure\\Repositories\\EfFileRepository.cs",
+              "RelativeDocumentMoniker": "Tests\\FileStoringServiceTest\\Infrastructure\\Repositories\\EfFileRepository.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileStoringServiceTest\\Infrastructure\\Repositories\\EfFileRepository.cs",
+              "RelativeToolTip": "Tests\\FileStoringServiceTest\\Infrastructure\\Repositories\\EfFileRepository.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:56:20.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileStoringServiceTest\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Tests\\FileStoringServiceTest\\Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileStoringServiceTest\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Tests\\FileStoringServiceTest\\Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:56:15.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileStoringServiceTest\\Domain\\Model\\Entity\\Document.cs",
+              "RelativeDocumentMoniker": "Tests\\FileStoringServiceTest\\Domain\\Model\\Entity\\Document.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileStoringServiceTest\\Domain\\Model\\Entity\\Document.cs",
+              "RelativeToolTip": "Tests\\FileStoringServiceTest\\Domain\\Model\\Entity\\Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:55:57.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DocumentUploaded.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileStoringServiceTest\\Domain\\Events\\DocumentUploaded.cs",
+              "RelativeDocumentMoniker": "Tests\\FileStoringServiceTest\\Domain\\Events\\DocumentUploaded.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileStoringServiceTest\\Domain\\Events\\DocumentUploaded.cs",
+              "RelativeToolTip": "Tests\\FileStoringServiceTest\\Domain\\Events\\DocumentUploaded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:55:43.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DocumentExist.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileStoringServiceTest\\Domain\\Events\\DocumentExist.cs",
+              "RelativeDocumentMoniker": "Tests\\FileStoringServiceTest\\Domain\\Events\\DocumentExist.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileStoringServiceTest\\Domain\\Events\\DocumentExist.cs",
+              "RelativeToolTip": "Tests\\FileStoringServiceTest\\Domain\\Events\\DocumentExist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:55:35.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FileController.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileStoringServiceTest\\Controllers\\FileController.cs",
+              "RelativeDocumentMoniker": "Tests\\FileStoringServiceTest\\Controllers\\FileController.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileStoringServiceTest\\Controllers\\FileController.cs",
+              "RelativeToolTip": "Tests\\FileStoringServiceTest\\Controllers\\FileController.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:55:29.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileStoringServiceTest\\Application\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "Tests\\FileStoringServiceTest\\Application\\Services\\FileService.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileStoringServiceTest\\Application\\Services\\FileService.cs",
+              "RelativeToolTip": "Tests\\FileStoringServiceTest\\Application\\Services\\FileService.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:55:24.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FileUploadDto.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileStoringServiceTest\\Application\\DTOs\\FileUploadDto.cs",
+              "RelativeDocumentMoniker": "Tests\\FileStoringServiceTest\\Application\\DTOs\\FileUploadDto.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileStoringServiceTest\\Application\\DTOs\\FileUploadDto.cs",
+              "RelativeToolTip": "Tests\\FileStoringServiceTest\\Application\\DTOs\\FileUploadDto.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:55:20.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FileDto.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileStoringServiceTest\\Application\\DTOs\\FileDto.cs",
+              "RelativeDocumentMoniker": "Tests\\FileStoringServiceTest\\Application\\DTOs\\FileDto.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileStoringServiceTest\\Application\\DTOs\\FileDto.cs",
+              "RelativeToolTip": "Tests\\FileStoringServiceTest\\Application\\DTOs\\FileDto.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwC4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:55:10.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Program.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Program.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Program.cs",
+              "RelativeToolTip": "FileStoringService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:54:39.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\appsettings.json",
+              "RelativeDocumentMoniker": "FileStoringService\\appsettings.json",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\appsettings.json",
+              "RelativeToolTip": "FileStoringService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-02T13:54:32.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EfUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Infrastructure\\UnitOfWork\\EfUnitOfWork.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Infrastructure\\UnitOfWork\\EfUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Infrastructure\\UnitOfWork\\EfUnitOfWork.cs",
+              "RelativeToolTip": "FileStoringService\\Infrastructure\\UnitOfWork\\EfUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:54:28.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EfFileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Infrastructure\\Repositories\\EfFileRepository.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Infrastructure\\Repositories\\EfFileRepository.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Infrastructure\\Repositories\\EfFileRepository.cs",
+              "RelativeToolTip": "FileStoringService\\Infrastructure\\Repositories\\EfFileRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:54:21.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "FileStoringService\\Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:54:08.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IDocumentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Domain\\Model\\Interfaces\\IDocumentRepository.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Domain\\Model\\Interfaces\\IDocumentRepository.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Domain\\Model\\Interfaces\\IDocumentRepository.cs",
+              "RelativeToolTip": "FileStoringService\\Domain\\Model\\Interfaces\\IDocumentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:53:17.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Domain\\Model\\Entities\\Document.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Domain\\Model\\Entities\\Document.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Domain\\Model\\Entities\\Document.cs",
+              "RelativeToolTip": "FileStoringService\\Domain\\Model\\Entities\\Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:52:48.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IDomainEvent.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Domain\\Events\\IDomainEvent.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Domain\\Events\\IDomainEvent.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Domain\\Events\\IDomainEvent.cs",
+              "RelativeToolTip": "FileStoringService\\Domain\\Events\\IDomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:52:12.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DocumentUploaded.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Domain\\Events\\DocumentUploaded.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Domain\\Events\\DocumentUploaded.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Domain\\Events\\DocumentUploaded.cs",
+              "RelativeToolTip": "FileStoringService\\Domain\\Events\\DocumentUploaded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:52:05.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DocumentExist.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Domain\\Events\\DocumentExist.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Domain\\Events\\DocumentExist.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Domain\\Events\\DocumentExist.cs",
+              "RelativeToolTip": "FileStoringService\\Domain\\Events\\DocumentExist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:51:57.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Controllers\\FilesController.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Controllers\\FilesController.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Controllers\\FilesController.cs",
+              "RelativeToolTip": "FileStoringService\\Controllers\\FilesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:51:29.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Application\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Application\\Services\\FileService.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Application\\Services\\FileService.cs",
+              "RelativeToolTip": "FileStoringService\\Application\\Services\\FileService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:47:32.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Application\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "FileStoringService\\Application\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:47:30.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IFileStoringService.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Application\\Interfaces\\IFileStoringService.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Application\\Interfaces\\IFileStoringService.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Application\\Interfaces\\IFileStoringService.cs",
+              "RelativeToolTip": "FileStoringService\\Application\\Interfaces\\IFileStoringService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:47:28.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IFileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Application\\Interfaces\\IFileRepository.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Application\\Interfaces\\IFileRepository.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Application\\Interfaces\\IFileRepository.cs",
+              "RelativeToolTip": "FileStoringService\\Application\\Interfaces\\IFileRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:47:16.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FileUploadDto.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Application\\DTOs\\FileUploadDto.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Application\\DTOs\\FileUploadDto.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Application\\DTOs\\FileUploadDto.cs",
+              "RelativeToolTip": "FileStoringService\\Application\\DTOs\\FileUploadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:47:12.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FileDto.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Application\\DTOs\\FileDto.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Application\\DTOs\\FileDto.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Application\\DTOs\\FileDto.cs",
+              "RelativeToolTip": "FileStoringService\\Application\\DTOs\\FileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:47:10.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CreateFileDto.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Application\\DTOs\\CreateFileDto.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Application\\DTOs\\CreateFileDto.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileStoringService\\Application\\DTOs\\CreateFileDto.cs",
+              "RelativeToolTip": "FileStoringService\\Application\\DTOs\\CreateFileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:47:08.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "coverage.cobertura.xml",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileAnalysisTest\\TestResults\\05fc151c-acef-4271-9c57-b7f26cbc8d39\\coverage.cobertura.xml",
+              "RelativeDocumentMoniker": "Tests\\FileAnalysisTest\\TestResults\\05fc151c-acef-4271-9c57-b7f26cbc8d39\\coverage.cobertura.xml",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileAnalysisTest\\TestResults\\05fc151c-acef-4271-9c57-b7f26cbc8d39\\coverage.cobertura.xml",
+              "RelativeToolTip": "Tests\\FileAnalysisTest\\TestResults\\05fc151c-acef-4271-9c57-b7f26cbc8d39\\coverage.cobertura.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-06-02T13:46:36.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FileAnalysisRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileAnalysisTest\\Infrastructure\\Repositories\\FileAnalysisRepository.cs",
+              "RelativeDocumentMoniker": "Tests\\FileAnalysisTest\\Infrastructure\\Repositories\\FileAnalysisRepository.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileAnalysisTest\\Infrastructure\\Repositories\\FileAnalysisRepository.cs",
+              "RelativeToolTip": "Tests\\FileAnalysisTest\\Infrastructure\\Repositories\\FileAnalysisRepository.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:45:48.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TextAnalysisDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileAnalysisTest\\Infrastructure\\Data\\TextAnalysisDbContext.cs",
+              "RelativeDocumentMoniker": "Tests\\FileAnalysisTest\\Infrastructure\\Data\\TextAnalysisDbContext.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileAnalysisTest\\Infrastructure\\Data\\TextAnalysisDbContext.cs",
+              "RelativeToolTip": "Tests\\FileAnalysisTest\\Infrastructure\\Data\\TextAnalysisDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:45:29.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FileAnaysisResult.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileAnalysisTest\\Domain\\Entities\\FileAnaysisResult.cs",
+              "RelativeDocumentMoniker": "Tests\\FileAnalysisTest\\Domain\\Entities\\FileAnaysisResult.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileAnalysisTest\\Domain\\Entities\\FileAnaysisResult.cs",
+              "RelativeToolTip": "Tests\\FileAnalysisTest\\Domain\\Entities\\FileAnaysisResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:45:03.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileAnalysisTest\\Controllers\\Controller.cs",
+              "RelativeDocumentMoniker": "Tests\\FileAnalysisTest\\Controllers\\Controller.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileAnalysisTest\\Controllers\\Controller.cs",
+              "RelativeToolTip": "Tests\\FileAnalysisTest\\Controllers\\Controller.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:44:50.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AnalyzeFileService.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileAnalysisTest\\Application\\Services\\AnalyzeFileService.cs",
+              "RelativeDocumentMoniker": "Tests\\FileAnalysisTest\\Application\\Services\\AnalyzeFileService.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileAnalysisTest\\Application\\Services\\AnalyzeFileService.cs",
+              "RelativeToolTip": "Tests\\FileAnalysisTest\\Application\\Services\\AnalyzeFileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:44:43.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AnalyzeResponse.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileAnalysisTest\\Application\\DTOs\\AnalyzeResponse.cs",
+              "RelativeDocumentMoniker": "Tests\\FileAnalysisTest\\Application\\DTOs\\AnalyzeResponse.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileAnalysisTest\\Application\\DTOs\\AnalyzeResponse.cs",
+              "RelativeToolTip": "Tests\\FileAnalysisTest\\Application\\DTOs\\AnalyzeResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:44:40.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AnalyzeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileAnalysisTest\\Application\\DTOs\\AnalyzeRequest.cs",
+              "RelativeDocumentMoniker": "Tests\\FileAnalysisTest\\Application\\DTOs\\AnalyzeRequest.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\Tests\\FileAnalysisTest\\Application\\DTOs\\AnalyzeRequest.cs",
+              "RelativeToolTip": "Tests\\FileAnalysisTest\\Application\\DTOs\\AnalyzeRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:44:38.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileAnalysisService\\Program.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Program.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileAnalysisService\\Program.cs",
+              "RelativeToolTip": "FileAnalysisService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:43:34.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-02T13:43:29.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FileAnalysisRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileAnalysisService\\Infrastructure\\Repositories\\FileAnalysisRepository.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Infrastructure\\Repositories\\FileAnalysisRepository.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileAnalysisService\\Infrastructure\\Repositories\\FileAnalysisRepository.cs",
+              "RelativeToolTip": "FileAnalysisService\\Infrastructure\\Repositories\\FileAnalysisRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:42:23.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "TextAnalysisDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileAnalysisService\\Infrastructure\\Data\\TextAnalysisDbContext.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Infrastructure\\Data\\TextAnalysisDbContext.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileAnalysisService\\Infrastructure\\Data\\TextAnalysisDbContext.cs",
+              "RelativeToolTip": "FileAnalysisService\\Infrastructure\\Data\\TextAnalysisDbContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:42:20.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FileStorageHttpClient.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileAnalysisService\\Infrastructure\\Clients\\FileStorageHttpClient.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Infrastructure\\Clients\\FileStorageHttpClient.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileAnalysisService\\Infrastructure\\Clients\\FileStorageHttpClient.cs",
+              "RelativeToolTip": "FileAnalysisService\\Infrastructure\\Clients\\FileStorageHttpClient.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:42:16.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IWordCloudGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileAnalysisService\\Domain\\Interfaces\\IWordCloudGenerator.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Domain\\Interfaces\\IWordCloudGenerator.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileAnalysisService\\Domain\\Interfaces\\IWordCloudGenerator.cs",
+              "RelativeToolTip": "FileAnalysisService\\Domain\\Interfaces\\IWordCloudGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:42:14.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IFileAnalysisRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileAnalysisService\\Domain\\Interfaces\\IFileAnalysisRepository.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Domain\\Interfaces\\IFileAnalysisRepository.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileAnalysisService\\Domain\\Interfaces\\IFileAnalysisRepository.cs",
+              "RelativeToolTip": "FileAnalysisService\\Domain\\Interfaces\\IFileAnalysisRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:42:12.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FileAnalysisResult.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileAnalysisService\\Domain\\Entities\\FileAnalysisResult.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Domain\\Entities\\FileAnalysisResult.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileAnalysisService\\Domain\\Entities\\FileAnalysisResult.cs",
+              "RelativeToolTip": "FileAnalysisService\\Domain\\Entities\\FileAnalysisResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:42:07.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AnalyzeController.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileAnalysisService\\Controllers\\AnalyzeController.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Controllers\\AnalyzeController.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileAnalysisService\\Controllers\\AnalyzeController.cs",
+              "RelativeToolTip": "FileAnalysisService\\Controllers\\AnalyzeController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:42:03.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AnalyzeFileService.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileAnalysisService\\Application\\Services\\AnalyzeFileService.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Application\\Services\\AnalyzeFileService.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileAnalysisService\\Application\\Services\\AnalyzeFileService.cs",
+              "RelativeToolTip": "FileAnalysisService\\Application\\Services\\AnalyzeFileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:41:05.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IAnalyzeFileService.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileAnalysisService\\Application\\Interfaces\\IAnalyzeFileService.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Application\\Interfaces\\IAnalyzeFileService.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileAnalysisService\\Application\\Interfaces\\IAnalyzeFileService.cs",
+              "RelativeToolTip": "FileAnalysisService\\Application\\Interfaces\\IAnalyzeFileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:40:53.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AnalyzeFileResponse.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileAnalysisService\\Application\\DTOs\\AnalyzeFileResponse.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Application\\DTOs\\AnalyzeFileResponse.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileAnalysisService\\Application\\DTOs\\AnalyzeFileResponse.cs",
+              "RelativeToolTip": "FileAnalysisService\\Application\\DTOs\\AnalyzeFileResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:40:41.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "AnalyzeFileRequest.cs",
+              "DocumentMoniker": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileAnalysisService\\Application\\DTOs\\AnalyzeFileRequest.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Application\\DTOs\\AnalyzeFileRequest.cs",
+              "ToolTip": "C:\\Users\\tolka\\Downloads\\CW2\\CW2\\FileAnalysisService\\Application\\DTOs\\AnalyzeFileRequest.cs",
+              "RelativeToolTip": "FileAnalysisService\\Application\\DTOs\\AnalyzeFileRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:40:35.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

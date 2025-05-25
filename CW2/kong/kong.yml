@@ -1,0 +1,29 @@
+_format_version: "1.1"
+_transform: true
+
+services:
+  - name: file-storage
+    url: http://file-storage:80
+    routes:
+      - name: file-storage-api
+        paths:
+          - /api/files
+        strip_path: false
+
+      - name: file-storage-swagger
+        paths:
+          - /api/files/swagger
+        strip_path: false
+
+  - name: file-analysis
+    url: http://file-analysis:80
+    routes:
+      - name: file-analysis-api
+        paths:
+          - /api/analyze
+        strip_path: false
+
+      - name: file-analysis-swagger
+        paths:
+          - /api/analyze/swagger
+        strip_path: false
